@@ -8,6 +8,7 @@ Separate tags with commas.
 git clone git@github.com:wdssmq/hexo-split-tags.git
 
 cd hexo-split-tags
+npm i
 npm link
 
 # Hexo Site
