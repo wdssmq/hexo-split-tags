@@ -1,0 +1,19 @@
+{
+  "name": "hexo-split-tags",
+  "version": "1.0.0",
+  "description": "Separate tags with commas.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdssmq/hexo-split-tags"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin"
+  ],
+  "author": "wdssmq",
+  "license": "MIT",
+  "devDependencies": {
+    "hexo-front-matter": "^3.0.0"
+  }
+}
